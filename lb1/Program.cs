@@ -12,15 +12,6 @@ namespace lb1
     {
         static void Main(string[] args)
         {
-            //Zoo zoo = new Zoo();
-            //zoo.readFromFile();
-
-            //zoo.showData();
-
-            //zoo.writeToFile();
-
-            //zoo.createReport();
-
             Menu.showMenu();
         }
     }
